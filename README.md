@@ -1,7 +1,7 @@
 <h1> 👋 Hello world!</h1>
 <strong>I’m Lucía or 祝子琭 (zhùzilù)</strong> <br>
 <ul>
-<li>📚 I'm studying to become a Web and Multiplatform Developer <br></li>
+<li>📚 Web and Multiplatform Developer student <br></li>
 <li>👀 I’m interested in looking for new opportunities to learn more and work on cool projects <br></li>
 <li>🌱 I’m currently learning C#, Java, PL/SQL and so much more.<br></li>
 <li>💞️ I’m looking to collaborate on ... <br></li>
