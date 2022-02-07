@@ -3,7 +3,7 @@
 <ul>
 <li>📚 Web and Multiplatform Developer student <br></li>
 <li>👀 I’m interested in looking for new opportunities to learn more and work on cool projects <br></li>
-<li>🌱 I’m currently learning C#, Java, PL/SQL and so much more<br></li>
+<li>🌱 I’m currently learning C#, Java, Javascript, PL/SQL and so much more<br></li>
 <li>💞️ I’m looking to collaborate on your project <br></li>
 <li>📫 How to reach me 
 <a href = "mailto: lucialpzas@gmail.com">lucialpzas@gmail.com</a>
