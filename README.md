@@ -6,7 +6,7 @@
 <li>🌱 I’m currently learning C#, Java, Javascript, PL/SQL and so much more<br></li>
 <li>💞️ I’m looking to collaborate on your project <br></li>
 <li>📫 How to reach me 
-<a href = "mailto: lucialpzas@gmail.com">lucialpzas@gmail.com</a>
+<a href = "mailto: lucia.lopez.zas@gmail.com">lucialpzas@gmail.com</a>
 <br>
 <a href="https://www.linkedin.com/in/lucialopezzas/">Linkedin</a></li>
 </ul>
