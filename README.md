@@ -9,8 +9,8 @@
 <a href="https://www.linkedin.com/in/lucialopezzas/">Linkedin</a></li>
 </ul>
 <br>
+[![zhuzilu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhuzilu)](https://github.com/zhuzilu/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzilu&layout=compact)](https://github.com/zhuzilu/github-readme-stats)
 <!---
 zhuzilu/zhuzilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
