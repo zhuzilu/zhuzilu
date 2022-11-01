@@ -11,7 +11,7 @@
 </ul>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzilu&layout=compact&title_color=ffffff&text_color=cccccc&bg_color=1F1B24)](https://github.com/zhuzilu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhuzilu&layout=compact&title_color=ffffff&text_color=cccccc&bg_color=1F1B24&hide=PHP&langs_count=6)](https://github.com/zhuzilu/github-readme-stats)
 <!---
 zhuzilu/zhuzilu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
